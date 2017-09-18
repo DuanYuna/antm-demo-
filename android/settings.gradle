@@ -1,0 +1,3 @@
+rootProject.name = 'antmdemo'
+
+include ':app'
